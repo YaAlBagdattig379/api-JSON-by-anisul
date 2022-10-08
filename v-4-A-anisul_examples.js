@@ -1,5 +1,6 @@
-// how to access json file  from "this file : v-2-B-students_data.json"
-// how to access json file  from "this file : v-2-B-students_data.json"
+/* how to access json file  from "this file : v-2-B-students_data.json" 
+this is totally json data....are taken from that file.
+*/
 const data = require("./v-2-B-students_data.json");
 
 
